@@ -16,7 +16,7 @@ settings:
   moved-wrongly-threshold: 0.0625
   moved-too-quickly-multiplier: 10.0
   save-user-cache-on-stop-only: true
-  bungeecord: false
+  bungeecord: true
   log-villager-deaths: true
   user-cache-size: 1000
   player-shuffle: 0
@@ -33,12 +33,12 @@ settings:
     attackDamage:
       max: 2048.0
 messages:
-  whitelist: You are not whitelisted on this server!
-  unknown-command: Unknown command. Type "/help" for help.
-  server-full: The server is full!
-  outdated-client: Outdated client! Please use {0}
-  outdated-server: Outdated server! I'm still on {0}
-  restart: Server is restarting
+  whitelist: '&7[&esᴏᴋʜᴇɴɢsᴍᴘ&7] &fYou are not whitelisted on this server!'
+  unknown-command: '&7[&esᴏᴋʜᴇɴɢsᴍᴘ&7] &fUnknown command. Type "/help" for help.'
+  server-full: '&7[&esᴏᴋʜᴇɴɢsᴍᴘ&7] &fThe server is full!'
+  outdated-client: '&7[&esᴏᴋʜᴇɴɢsᴍᴘ&7] &fOutdated client! Please use {0}'
+  outdated-server: '&7[&esᴏᴋʜᴇɴɢsᴍᴘ&7] &fOutdated server! Im still on {0}'
+  restart: '&7[&esᴏᴋʜᴇɴɢsᴍᴘ&7] &fServer is restarting'
 advancements:
   disable-saving: false
   disabled:
